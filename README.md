@@ -1,5 +1,5 @@
 # What's new on this fork
-Addes support for the Nvidia RTX graphics cards (RTX 2060, 2070, 2080).
+Add support for the Nvidia RTX graphics cards (RTX 2060, 2070, 2080).
 It is tested on Nvidia RTX 2080 Ti.
 
 The original environment-gpu.yml file requires tensorflow 1.3.0 that does not support CUDA 10.
