@@ -2,7 +2,7 @@
 Add support for the Nvidia RTX graphics cards (RTX 2060, 2070, 2080).
 It is tested on Nvidia RTX 2080 Ti.
 
-The original environment-gpu.yml file requires tensorflow 1.3.0 that does not support CUDA 10.
+The original environment-gpu.yml file requires tensorflow 1.3.0. It does not support CUDA 10.
 The latest GPUs, such as Nvidia RTX 2080 Ti require CUDA 10 or later.
 This environment uses the latest tensorflow version (tf-nightly-gpu) that supports CUDA 10.
 You can use this environment if you have a new GPU and you want to use it for your projects.
